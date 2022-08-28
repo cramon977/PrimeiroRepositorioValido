@@ -1,0 +1,21 @@
+body{
+    background: rgb(94, 166, 204);
+    font: normal 15pt Arial;
+}
+section{
+    
+    background: white;
+    border-radius: 5px;
+    padding: 18px;
+    width: 500px;
+    margin: auto;
+}
+select#selval{
+    
+    width: 150px;
+}
+footer{
+    text-align: center;
+    color: white;
+    font-style:italic;
+}
